@@ -1,0 +1,72 @@
+#fotomini:hover {
+  filter: grayscale(21);
+}
+
+#fotomini2:hover {
+  filter: sepia(21);
+}
+
+#fotomini3:hover {
+  filter: invert(21);
+}
+
+.footer-dark:hover {
+  filter: saturate(10);
+}
+
+.fa.fa-reddit-alien.reddit:hover {
+  color: var(--bs-red);
+}
+
+#row:hover {
+  background-color: var(--bs-green);
+}
+
+#row {
+  background-color: var(--bs-gray);
+}
+
+#row2 {
+  background-color: #282d32;
+}
+
+#row2:hover {
+  background-color: var(--bs-indigo);
+}
+
+.footer-dark:hover {
+  background-color: #070012;
+}
+
+#butt1 {
+  background-color: #282d32;
+}
+
+#butt1:hover {
+  background-color: var(--bs-indigo);
+}
+
+#butt2 {
+  background-color: #282d32;
+}
+
+#butt2:hover {
+  background-color: var(--bs-indigo);
+}
+
+#butt3 {
+  background-color: #282d32;
+}
+
+#butt3:hover {
+  background-color: var(--bs-indigo);
+}
+
+#butt4 {
+  background-color: #282d32;
+}
+
+#butt4:hover {
+  background-color: var(--bs-indigo);
+}
+
